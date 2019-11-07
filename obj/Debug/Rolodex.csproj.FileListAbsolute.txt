@@ -1,0 +1,9 @@
+C:\Users\jared\source\repos\Rolodex\bin\Debug\Rolodex.exe.config
+C:\Users\jared\source\repos\Rolodex\bin\Debug\Rolodex.exe
+C:\Users\jared\source\repos\Rolodex\bin\Debug\Rolodex.pdb
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.Rolodex.resources
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.Properties.Resources.resources
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.exe
+C:\Users\jared\source\repos\Rolodex\obj\Debug\Rolodex.pdb
